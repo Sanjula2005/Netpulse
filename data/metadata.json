@@ -1,0 +1,14 @@
+{
+  "num_traces": 120,
+  "trace_len": 2000,
+  "window_size": 100,
+  "stride": 10,
+  "total_samples": 22440,
+  "train": 17952,
+  "test": 4488,
+  "class_dist": {
+    "green": 8083,
+    "yellow": 7752,
+    "red": 6605
+  }
+}
